@@ -1,0 +1,5 @@
+:HL["/itzfizz-hero/_next/static/chunks/2fsw1t12bkf5i.css","style"]
+:HL["/itzfizz-hero/_next/static/media/0c795a286deabae8-s.p.3vm0tq4e-zz_5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/itzfizz-hero/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"EAvklNbR15ZMfCpICO86l","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
